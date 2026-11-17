@@ -9,4 +9,4 @@ This repository consolidates the practical, hands-on capstone projects completed
 ```text
 IBM-MCIT-Capstone-Projects/
 ├── 01-soho-network-capstone/                # Small Office/Home Office (SOHO) Network Implementation
-└── 02-healthcare-data-breach-ir/            # IT Security & Compliance: Healthcare Data Breach Incident Response
+└── 02-healthcare-data-breach/            # IT Security & Compliance: Healthcare Data Breach Incident Response
