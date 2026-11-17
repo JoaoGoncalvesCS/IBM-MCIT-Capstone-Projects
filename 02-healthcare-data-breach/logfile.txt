@@ -1,0 +1,17 @@
+Date/Time: 2024-03-25 10:01:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass123, Status: FAILED
+
+Date/Time: 2024-03-25 10:02:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass124, Status: FAILED
+
+Date/Time: 2024-03-25 10:03:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass125, Status: FAILED
+
+Date/Time: 2024-03-25 10:04:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass126, Status: FAILED
+
+Date/Time: 2024-03-25 10:05:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass127, Status: FAILED
+
+Date/Time: 2024-03-25 10:06:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass128, Status: FAILED
+
+Date/Time: 2024-03-25 10:07:00, IP Address: 512.92.134.199, LOGIN ATTEMPT, Group: fd_role, Password: pass129, Status: SUCCESS
+
+Date/Time: 2024-03-25 10:10:32, IP Address: 192.168.1.102, LOGIN ATTEMPT, Group: pm_role, Password: pmSecure!2024, Status: SUCCESS
+
+Date/Time: 2024-03-25 10:14:45, IP Address: 192.168.1.105, LOGIN ATTEMPT, Group: crm_role, Password: crmLogin#2024, Status: SUCCESS

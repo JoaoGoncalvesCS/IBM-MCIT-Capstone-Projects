@@ -1,0 +1,41 @@
+Entity            Type            Role Name            Short-term access
+
+Client            System          crm_role             Yes
+relationship 
+management (CRM) 
+system
+
+Program           Tool            pm_role              Yes
+management 
+tools
+
+Data analysis     Tool            da_role              No     
+and reporting 
+tools
+
+Outreach          System          oe_role              No
+and education 
+systems
+
+Feedback and      System          fs_role              No
+survey systems
+
+Health            System          his_role             Yes
+information 
+system (HIS)
+	
+Information       Department      it_role              Yes
+technology		
+
+Finance           Department      finance_role         No
+
+Customer          Department      cs_role              Yes
+service	
+
+Human resources   Department      hr_role              No
+
+Health policy     Department      hpr_role             No
+and research
+
+Fundraising       Department      fd_role              No
+and development	
